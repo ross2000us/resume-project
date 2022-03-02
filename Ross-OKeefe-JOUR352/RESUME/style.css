@@ -1,0 +1,98 @@
+
+/*styles for my resume*/
+
+h1,h2,h3,h4,h5,h6, p, li {
+color: #444;
+font-size: 1em;
+font-family: 'Open Sans', sans-serif;}
+
+#container{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+body{
+  font-weight: 400;
+  /*The above sets a universal font-weight for the document*/
+}
+
+/*The above keeps the header blue and big*/
+
+#journalist{font-size: 1.5em;
+  color: blue;
+  text-transform: uppercase;
+  background-color: white;}
+/*Creating background color for section headers*/
+
+.jobtitle {font-weight:600;
+  font-size: 1.5em;}
+/*This one will create a black outline around my name*/
+#name{
+  border-bottom: 10px;
+  border-color: #33485e;
+  border-style: solid;
+  margin: 0 auto;
+  width: 60%;
+  min-width: 300px;
+  font-size: 3em;
+  color: blue;
+  text-align: center;
+  text-transform: uppercase;
+}
+#degrees{
+  margin-top: 5px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+.sectionheader {
+  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
+  width: 70%;
+  min-width: 300px;
+  background-color: blue;
+  color: white;
+  font-size: 1.5em;
+  text-transform: uppercase;
+}
+
+.organization{
+  font-size: 1.25em;
+}
+
+.date {
+  font-style:italic;
+  margin-top: 2px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.description {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+
+}
+.menu {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  display: inline;
+}
+#do{
+  margin-top: 5px;
+  margin-left: 0;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#title{
+  font-weight: 600;
+  margin-top: 20 px;
+  margin-left: 0 px;
+  margin-right: 0 px;
+  margin-bottom: 0 px;
+}
